@@ -1,0 +1,22 @@
+#wrapper{
+    width: 600px;
+    height: 590px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: dotted;
+    border-color: red;
+}
+
+#section{
+    width: 300px;
+    height: 350px;
+    background-size: 300px 350px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+#header{
+    font-size: 60px;
+    padding-left: 60px;
+}
