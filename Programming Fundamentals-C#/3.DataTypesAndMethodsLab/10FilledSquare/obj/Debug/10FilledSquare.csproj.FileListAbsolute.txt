@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\bin\Debug\10FilledSquare.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\bin\Debug\10FilledSquare.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\bin\Debug\10FilledSquare.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\obj\Debug\10FilledSquare.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\obj\Debug\10FilledSquare.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\bin\Debug\10FilledSquare.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\obj\Debug\10FilledSquare.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\10FilledSquare\obj\Debug\10FilledSquare.pdb

@@ -1,0 +1,2 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\08DaysOfWeek\bin\Debug\08DaysOfWeek.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\08DaysOfWeek\bin\Debug\08DaysOfWeek.exe.config

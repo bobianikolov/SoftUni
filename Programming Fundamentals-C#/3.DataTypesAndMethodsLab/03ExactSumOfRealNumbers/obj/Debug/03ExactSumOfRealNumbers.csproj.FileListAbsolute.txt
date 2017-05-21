@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\bin\Debug\03ExactSumOfRealNumbers.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\bin\Debug\03ExactSumOfRealNumbers.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\bin\Debug\03ExactSumOfRealNumbers.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\obj\Debug\03ExactSumOfRealNumbers.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\obj\Debug\03ExactSumOfRealNumbers.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\bin\Debug\03ExactSumOfRealNumbers.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\obj\Debug\03ExactSumOfRealNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\03ExactSumOfRealNumbers\obj\Debug\03ExactSumOfRealNumbers.pdb

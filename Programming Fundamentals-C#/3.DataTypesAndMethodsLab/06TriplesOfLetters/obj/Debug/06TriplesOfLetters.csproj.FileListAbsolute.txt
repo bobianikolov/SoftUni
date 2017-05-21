@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\bin\Debug\06TriplesOfLetters.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\bin\Debug\06TriplesOfLetters.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\bin\Debug\06TriplesOfLetters.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\obj\Debug\06TriplesOfLetters.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\obj\Debug\06TriplesOfLetters.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\bin\Debug\06TriplesOfLetters.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\obj\Debug\06TriplesOfLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\06TriplesOfLetters\obj\Debug\06TriplesOfLetters.pdb

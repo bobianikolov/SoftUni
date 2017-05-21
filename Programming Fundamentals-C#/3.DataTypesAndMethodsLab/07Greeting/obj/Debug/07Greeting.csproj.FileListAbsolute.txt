@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\bin\Debug\07Greeting.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\bin\Debug\07Greeting.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\bin\Debug\07Greeting.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\obj\Debug\07Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\obj\Debug\07Greeting.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\obj\Debug\07Greeting.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\bin\Debug\07Greeting.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\obj\Debug\07Greeting.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\07Greeting\obj\Debug\07Greeting.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\bin\Debug\02CircleArea.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\bin\Debug\02CircleArea.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\bin\Debug\02CircleArea.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\obj\Debug\02CircleArea.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\obj\Debug\02CircleArea.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\bin\Debug\02CircleArea.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\obj\Debug\02CircleArea.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\02CircleArea\obj\Debug\02CircleArea.pdb

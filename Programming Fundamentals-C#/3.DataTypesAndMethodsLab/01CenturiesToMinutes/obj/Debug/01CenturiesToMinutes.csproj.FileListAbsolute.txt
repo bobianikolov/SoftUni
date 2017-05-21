@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\bin\Debug\01CenturiesToMinutes.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\bin\Debug\01CenturiesToMinutes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\bin\Debug\01CenturiesToMinutes.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\obj\Debug\01CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\obj\Debug\01CenturiesToMinutes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\obj\Debug\01CenturiesToMinutes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\bin\Debug\01CenturiesToMinutes.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\obj\Debug\01CenturiesToMinutes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\01CenturiesToMinutes\obj\Debug\01CenturiesToMinutes.pdb

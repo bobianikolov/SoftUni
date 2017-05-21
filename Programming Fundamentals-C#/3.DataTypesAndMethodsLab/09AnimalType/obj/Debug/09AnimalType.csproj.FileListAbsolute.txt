@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\bin\Debug\09AnimalType.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\bin\Debug\09AnimalType.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\bin\Debug\09AnimalType.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\obj\Debug\09AnimalType.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\obj\Debug\09AnimalType.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\bin\Debug\09AnimalType.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\obj\Debug\09AnimalType.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\3.DataTypesAndMethodsLab\09AnimalType\obj\Debug\09AnimalType.pdb
