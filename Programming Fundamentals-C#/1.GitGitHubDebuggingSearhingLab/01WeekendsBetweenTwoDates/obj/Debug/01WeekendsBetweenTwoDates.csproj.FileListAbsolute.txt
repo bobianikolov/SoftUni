@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\bin\Debug\01WeekendsBetweenTwoDates.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\obj\Debug\01WeekendsBetweenTwoDates.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\bin\Debug\01WeekendsBetweenTwoDates.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\bin\Debug\01WeekendsBetweenTwoDates.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\obj\Debug\01WeekendsBetweenTwoDates.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\obj\Debug\01WeekendsBetweenTwoDates.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\bin\Debug\01WeekendsBetweenTwoDates.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\obj\Debug\01WeekendsBetweenTwoDates.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\01WeekendsBetweenTwoDates\obj\Debug\01WeekendsBetweenTwoDates.pdb

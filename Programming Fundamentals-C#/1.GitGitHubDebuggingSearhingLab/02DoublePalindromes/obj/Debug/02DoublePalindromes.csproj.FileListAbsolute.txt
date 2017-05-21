@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\1.GitGitHubDebuggingSearhingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.pdb
