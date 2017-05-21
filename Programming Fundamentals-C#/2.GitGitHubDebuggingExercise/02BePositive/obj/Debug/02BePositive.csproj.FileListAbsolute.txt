@@ -1,0 +1,11 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\obj\Debug\02BePositive.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\obj\Debug\02BePositive.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\obj\Debug\02BePositive.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\obj\Debug\02BePositive.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\bin\Debug\02BePositive.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\2.GitGitHubDebuggingExercise\02BePositive\obj\Debug\02BePositive.csprojResolveAssemblyReference.cache
