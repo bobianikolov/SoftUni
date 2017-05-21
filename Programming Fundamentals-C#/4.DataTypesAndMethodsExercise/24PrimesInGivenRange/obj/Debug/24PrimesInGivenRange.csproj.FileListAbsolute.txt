@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\bin\Debug\24PrimesInGivenRange.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\bin\Debug\24PrimesInGivenRange.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\bin\Debug\24PrimesInGivenRange.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\bin\Debug\24PrimesInGivenRange.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\obj\Debug\24PrimesInGivenRange.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\24PrimesInGivenRange\obj\Debug\24PrimesInGivenRange.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\obj\Debug\04VariableInHexFormat.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\obj\Debug\04VariableInHexFormat.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\04VariableInHexFormat\obj\Debug\04VariableInHexFormat.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\bin\Debug\15ComparingFloats.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\bin\Debug\15ComparingFloats.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\bin\Debug\15ComparingFloats.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\obj\Debug\15ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\obj\Debug\15ComparingFloats.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\obj\Debug\15ComparingFloats.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\bin\Debug\15ComparingFloats.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\obj\Debug\15ComparingFloats.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\15ComparingFloats\obj\Debug\15ComparingFloats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\bin\Debug\12RectangleProperties.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\bin\Debug\12RectangleProperties.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\bin\Debug\12RectangleProperties.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\obj\Debug\12RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\obj\Debug\12RectangleProperties.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\12RectangleProperties\obj\Debug\12RectangleProperties.pdb

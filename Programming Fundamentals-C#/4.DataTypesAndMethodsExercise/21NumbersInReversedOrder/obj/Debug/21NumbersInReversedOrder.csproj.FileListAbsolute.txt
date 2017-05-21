@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\bin\Debug\21NumbersInReversedOrder.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\bin\Debug\21NumbersInReversedOrder.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\bin\Debug\21NumbersInReversedOrder.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\obj\Debug\21NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\obj\Debug\21NumbersInReversedOrder.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\obj\Debug\21NumbersInReversedOrder.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\bin\Debug\21NumbersInReversedOrder.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\obj\Debug\21NumbersInReversedOrder.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\21NumbersInReversedOrder\obj\Debug\21NumbersInReversedOrder.pdb

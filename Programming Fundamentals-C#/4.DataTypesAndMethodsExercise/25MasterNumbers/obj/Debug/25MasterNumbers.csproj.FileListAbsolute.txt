@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\bin\Debug\25MasterNumbers.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\bin\Debug\25MasterNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\bin\Debug\25MasterNumbers.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\obj\Debug\25MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\obj\Debug\25MasterNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\25MasterNumbers\obj\Debug\25MasterNumbers.pdb

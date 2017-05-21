@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.pdb

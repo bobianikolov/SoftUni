@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\06StringsAndobject\bin\Debug\06StringsAndobject.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\06StringsAndobject\bin\Debug\06StringsAndobject.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\06StringsAndobject\bin\Debug\06StringsAndobject.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\06StringsAndobject\obj\Debug\06StringsAndobject.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\06StringsAndobject\obj\Debug\06StringsAndobject.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\bin\Debug\01PracticeInteger.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\bin\Debug\01PracticeInteger.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\bin\Debug\01PracticeInteger.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\bin\Debug\01PracticeInteger.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\obj\Debug\01PracticeInteger.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\4.DataTypesAndMethodsExercise\01PracticeInteger\obj\Debug\01PracticeInteger.pdb
