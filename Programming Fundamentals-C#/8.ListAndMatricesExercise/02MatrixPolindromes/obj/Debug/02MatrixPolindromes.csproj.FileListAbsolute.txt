@@ -1,0 +1,12 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\bin\Debug\02MatrixPolindromes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\02MatrixPolindromes\obj\Debug\02MatrixPolindromes.csprojResolveAssemblyReference.cache

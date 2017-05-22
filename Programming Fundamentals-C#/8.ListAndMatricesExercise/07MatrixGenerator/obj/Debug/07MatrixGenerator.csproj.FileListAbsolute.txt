@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\bin\Debug\07MatrixGenerator.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\bin\Debug\07MatrixGenerator.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\bin\Debug\07MatrixGenerator.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\obj\Debug\07MatrixGenerator.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\obj\Debug\07MatrixGenerator.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\obj\Debug\07MatrixGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\bin\Debug\07MatrixGenerator.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\obj\Debug\07MatrixGenerator.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\07MatrixGenerator\obj\Debug\07MatrixGenerator.pdb

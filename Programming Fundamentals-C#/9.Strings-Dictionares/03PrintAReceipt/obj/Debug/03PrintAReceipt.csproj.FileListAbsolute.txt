@@ -1,0 +1,9 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\bin\Debug\03PrintAReceipt.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\bin\Debug\03PrintAReceipt.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\bin\Debug\03PrintAReceipt.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\obj\Debug\03PrintAReceipt.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\obj\Debug\03PrintAReceipt.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\03PrintAReceipt\obj\Debug\03PrintAReceipt.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\03PrintAReceipt\bin\Debug\03PrintAReceipt.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\03PrintAReceipt\obj\Debug\03PrintAReceipt.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\03PrintAReceipt\obj\Debug\03PrintAReceipt.pdb

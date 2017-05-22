@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\bin\Debug\11EqualSums.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\bin\Debug\11EqualSums.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\bin\Debug\11EqualSums.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\bin\Debug\11EqualSums.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\obj\Debug\11EqualSums.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\11EqualSums\obj\Debug\11EqualSums.pdb

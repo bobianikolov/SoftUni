@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\bin\Debug\08SumArrays.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\bin\Debug\08SumArrays.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\bin\Debug\08SumArrays.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\obj\Debug\08SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\obj\Debug\08SumArrays.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\08SumArrays\obj\Debug\08SumArrays.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\08SumArrays\bin\Debug\08SumArrays.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\08SumArrays\obj\Debug\08SumArrays.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\08SumArrays\obj\Debug\08SumArrays.pdb

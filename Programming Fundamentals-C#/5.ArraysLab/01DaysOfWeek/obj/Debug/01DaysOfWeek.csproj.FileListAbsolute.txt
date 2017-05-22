@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\bin\Debug\01DaysOfWeek.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\bin\Debug\01DaysOfWeek.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\bin\Debug\01DaysOfWeek.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\obj\Debug\01DaysOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\obj\Debug\01DaysOfWeek.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\obj\Debug\01DaysOfWeek.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\bin\Debug\01DaysOfWeek.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\obj\Debug\01DaysOfWeek.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\01DaysOfWeek\obj\Debug\01DaysOfWeek.pdb

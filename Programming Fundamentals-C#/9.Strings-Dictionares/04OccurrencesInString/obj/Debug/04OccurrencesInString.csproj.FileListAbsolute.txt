@@ -1,0 +1,11 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\04OccurrencesInString\bin\Debug\04OccurrencesInString.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\04OccurrencesInString\bin\Debug\04OccurrencesInString.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\04OccurrencesInString\bin\Debug\04OccurrencesInString.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.pdb
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\04OccurrencesInString\bin\Debug\04OccurrencesInString.exe.config
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.exe
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\04OccurrencesInString\bin\Debug\04OccurrencesInString.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\04OccurrencesInString\obj\Debug\04OccurrencesInString.pdb

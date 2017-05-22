@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\bin\Debug\07MatrixOfLetters.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\bin\Debug\07MatrixOfLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\bin\Debug\07MatrixOfLetters.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\obj\Debug\07MatrixOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\obj\Debug\07MatrixOfLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\07MatrixOfLetters\obj\Debug\07MatrixOfLetters.pdb

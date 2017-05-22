@@ -1,0 +1,12 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\bin\Debug\06CountRealNumbers.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\bin\Debug\06CountRealNumbers.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\bin\Debug\06CountRealNumbers.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.pdb
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\06CountRealNumbers\bin\Debug\06CountRealNumbers.exe.config
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.exe
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\06CountRealNumbers\bin\Debug\06CountRealNumbers.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\06CountRealNumbers\obj\Debug\06CountRealNumbers.pdb

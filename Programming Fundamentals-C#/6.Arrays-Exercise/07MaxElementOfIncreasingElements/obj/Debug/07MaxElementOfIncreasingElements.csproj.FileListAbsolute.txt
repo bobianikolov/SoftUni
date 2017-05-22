@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\07MaxElementOfIncreasingElements\bin\Debug\07MaxElementOfIncreasingElements.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\07MaxElementOfIncreasingElements\bin\Debug\07MaxElementOfIncreasingElements.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\07MaxElementOfIncreasingElements\bin\Debug\07MaxElementOfIncreasingElements.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\07MaxElementOfIncreasingElements\obj\Debug\07MaxElementOfIncreasingElements.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\07MaxElementOfIncreasingElements\obj\Debug\07MaxElementOfIncreasingElements.pdb

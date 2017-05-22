@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\09IndexOfLetters\bin\Debug\09IndexOfLetters.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\09IndexOfLetters\obj\Debug\09IndexOfLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\09IndexOfLetters\obj\Debug\09IndexOfLetters.pdb

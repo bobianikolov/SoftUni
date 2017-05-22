@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\04SieveOfEratosthenes\bin\Debug\04SieveOfEratosthenes.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\04SieveOfEratosthenes\obj\Debug\04SieveOfEratosthenes.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\04SieveOfEratosthenes\obj\Debug\04SieveOfEratosthenes.pdb

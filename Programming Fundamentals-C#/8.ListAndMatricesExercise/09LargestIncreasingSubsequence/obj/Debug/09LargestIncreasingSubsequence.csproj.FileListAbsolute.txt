@@ -1,0 +1,10 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\obj\Debug\09LargestIncreasingSubsequence.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\09LargestIncreasingSubsequence\bin\Debug\09LargestIncreasingSubsequence.pdb

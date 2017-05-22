@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\bin\Debug\06HourglassSum.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\bin\Debug\06HourglassSum.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\bin\Debug\06HourglassSum.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\obj\Debug\06HourglassSum.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\obj\Debug\06HourglassSum.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\obj\Debug\06HourglassSum.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\bin\Debug\06HourglassSum.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\obj\Debug\06HourglassSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\8.ListAndMatricesExercise\06HourglassSum\obj\Debug\06HourglassSum.pdb

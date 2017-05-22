@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\bin\Debug\05TripleSum.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\obj\Debug\05TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\bin\Debug\05TripleSum.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\bin\Debug\05TripleSum.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\obj\Debug\05TripleSum.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\05TripleSum\obj\Debug\05TripleSum.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\05TripleSum\bin\Debug\05TripleSum.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\05TripleSum\obj\Debug\05TripleSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\05TripleSum\obj\Debug\05TripleSum.pdb

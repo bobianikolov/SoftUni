@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\bin\Debug\02RotateAndSum.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\bin\Debug\02RotateAndSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\bin\Debug\02RotateAndSum.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\obj\Debug\02RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\obj\Debug\02RotateAndSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\02RotateAndSum\obj\Debug\02RotateAndSum.pdb

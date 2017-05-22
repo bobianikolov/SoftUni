@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\bin\Debug\08MostFrequentNumber.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\obj\Debug\08MostFrequentNumber.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\08MostFrequentNumber\obj\Debug\08MostFrequentNumber.pdb

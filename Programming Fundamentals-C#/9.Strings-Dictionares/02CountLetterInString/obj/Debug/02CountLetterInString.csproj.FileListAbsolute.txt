@@ -1,0 +1,8 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\02CountLetterInString\bin\Debug\02CountLetterInString.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\02CountLetterInString\bin\Debug\02CountLetterInString.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\02CountLetterInString\bin\Debug\02CountLetterInString.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\02CountLetterInString\obj\Debug\02CountLetterInString.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\02CountLetterInString\obj\Debug\02CountLetterInString.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\02CountLetterInString\bin\Debug\02CountLetterInString.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\02CountLetterInString\obj\Debug\02CountLetterInString.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\02CountLetterInString\obj\Debug\02CountLetterInString.pdb

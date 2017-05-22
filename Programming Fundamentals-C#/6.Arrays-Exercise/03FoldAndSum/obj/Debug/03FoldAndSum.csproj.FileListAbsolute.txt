@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\03FoldAndSum\bin\Debug\03FoldAndSum.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\03FoldAndSum\bin\Debug\03FoldAndSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\03FoldAndSum\bin\Debug\03FoldAndSum.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\03FoldAndSum\obj\Debug\03FoldAndSum.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\03FoldAndSum\obj\Debug\03FoldAndSum.pdb

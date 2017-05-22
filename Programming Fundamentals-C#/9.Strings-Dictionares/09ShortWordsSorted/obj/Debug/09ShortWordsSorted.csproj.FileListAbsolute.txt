@@ -1,0 +1,12 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\bin\Debug\09ShortWordsSorted.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\bin\Debug\09ShortWordsSorted.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\bin\Debug\09ShortWordsSorted.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.pdb
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\09ShortWordsSorted\bin\Debug\09ShortWordsSorted.exe.config
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.exe
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\09ShortWordsSorted\bin\Debug\09ShortWordsSorted.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\09ShortWordsSorted\obj\Debug\09ShortWordsSorted.pdb

@@ -1,0 +1,12 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\bin\Debug\08LargestThreeNumbers.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\bin\Debug\08LargestThreeNumbers.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\bin\Debug\08LargestThreeNumbers.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.pdb
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\08LargestThreeNumbers\bin\Debug\08LargestThreeNumbers.exe.config
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.exe
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\08LargestThreeNumbers\bin\Debug\08LargestThreeNumbers.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\08LargestThreeNumbers\obj\Debug\08LargestThreeNumbers.pdb

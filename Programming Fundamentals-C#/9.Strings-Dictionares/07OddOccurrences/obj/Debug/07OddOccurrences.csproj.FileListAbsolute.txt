@@ -1,0 +1,4 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\07OddOccurrences\bin\Debug\07OddOccurrences.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\07OddOccurrences\obj\Debug\07OddOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\07OddOccurrences\bin\Debug\07OddOccurrences.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\07OddOccurrences\bin\Debug\07OddOccurrences.exe.config

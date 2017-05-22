@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\bin\Debug\06RoundingNumbers.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\bin\Debug\06RoundingNumbers.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\bin\Debug\06RoundingNumbers.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\obj\Debug\06RoundingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\obj\Debug\06RoundingNumbers.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\obj\Debug\06RoundingNumbers.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\bin\Debug\06RoundingNumbers.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\obj\Debug\06RoundingNumbers.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\06RoundingNumbers\obj\Debug\06RoundingNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\bin\Debug\02ReverseArrayOfInteger.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\obj\Debug\02ReverseArrayOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\bin\Debug\02ReverseArrayOfInteger.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\bin\Debug\02ReverseArrayOfInteger.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\obj\Debug\02ReverseArrayOfInteger.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\obj\Debug\02ReverseArrayOfInteger.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\bin\Debug\02ReverseArrayOfInteger.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\obj\Debug\02ReverseArrayOfInteger.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\02ReverseArrayOfInteger\obj\Debug\02ReverseArrayOfInteger.pdb

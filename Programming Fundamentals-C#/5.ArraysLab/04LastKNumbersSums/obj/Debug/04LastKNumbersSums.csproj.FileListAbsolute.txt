@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\bin\Debug\04LastKNumbersSums.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\bin\Debug\04LastKNumbersSums.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\bin\Debug\04LastKNumbersSums.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\obj\Debug\04LastKNumbersSums.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\obj\Debug\04LastKNumbersSums.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\bin\Debug\04LastKNumbersSums.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\obj\Debug\04LastKNumbersSums.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\04LastKNumbersSums\obj\Debug\04LastKNumbersSums.pdb

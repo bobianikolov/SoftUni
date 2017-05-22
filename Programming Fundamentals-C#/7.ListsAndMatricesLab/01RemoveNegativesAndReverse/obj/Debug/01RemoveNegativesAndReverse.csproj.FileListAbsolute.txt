@@ -1,0 +1,15 @@
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe.config
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.pdb
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.exe
+C:\Users\my computar\Desktop\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.exe
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Exercise Programming Basics\11.ListsAndMatrices\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\7.ListsAndMatricesLab\01RemoveNegativesAndReverse\bin\Debug\01RemoveNegativesAndReverse.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\7.ListsAndMatricesLab\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\7.ListsAndMatricesLab\01RemoveNegativesAndReverse\obj\Debug\01RemoveNegativesAndReverse.pdb

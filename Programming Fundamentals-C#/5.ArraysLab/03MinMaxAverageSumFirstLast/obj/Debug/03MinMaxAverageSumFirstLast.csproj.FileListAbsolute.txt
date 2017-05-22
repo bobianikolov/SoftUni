@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\bin\Debug\03MinMaxAverageSumFirstLast.exe.config
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\bin\Debug\03MinMaxAverageSumFirstLast.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\bin\Debug\03MinMaxAverageSumFirstLast.pdb
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\obj\Debug\03MinMaxAverageSumFirstLast.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\obj\Debug\03MinMaxAverageSumFirstLast.exe
+C:\Users\Bobi\Desktop\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\obj\Debug\03MinMaxAverageSumFirstLast.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\bin\Debug\03MinMaxAverageSumFirstLast.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\obj\Debug\03MinMaxAverageSumFirstLast.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\5.ArraysLab\03MinMaxAverageSumFirstLast\obj\Debug\03MinMaxAverageSumFirstLast.pdb

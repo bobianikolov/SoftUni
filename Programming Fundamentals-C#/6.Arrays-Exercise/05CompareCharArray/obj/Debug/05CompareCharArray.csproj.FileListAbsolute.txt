@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\bin\Debug\05CompareCharArray.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\bin\Debug\05CompareCharArray.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\bin\Debug\05CompareCharArray.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\obj\Debug\05CompareCharArray.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\obj\Debug\05CompareCharArray.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\6.Arrays-Exercise\05CompareCharArray\obj\Debug\05CompareCharArray.pdb

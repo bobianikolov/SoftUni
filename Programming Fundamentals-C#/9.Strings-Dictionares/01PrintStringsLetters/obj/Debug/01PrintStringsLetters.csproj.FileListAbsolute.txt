@@ -1,0 +1,12 @@
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\bin\Debug\01PrintStringsLetters.exe.config
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\bin\Debug\01PrintStringsLetters.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\bin\Debug\01PrintStringsLetters.pdb
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.csprojResolveAssemblyReference.cache
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.exe
+C:\Users\my computar\Desktop\Exam 17 January 2016\Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.pdb
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\01PrintStringsLetters\bin\Debug\01PrintStringsLetters.exe.config
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.exe
+C:\Users\my computar\Desktop\Basic Level Part 2\4.Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.pdb
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\01PrintStringsLetters\bin\Debug\01PrintStringsLetters.exe.config
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.exe
+C:\Users\Bobi\Desktop\Tech Modules\Programming Fundamentals\9.Strings-Dictionares\01PrintStringsLetters\obj\Debug\01PrintStringsLetters.pdb
