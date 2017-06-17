@@ -1,0 +1,132 @@
+.softuni{
+    width: 410px;
+    height:70px;
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+.google{
+    width: 200px;
+    height:75px;
+    color: blue;
+    cursor: pointer;
+}
+.github{
+    width: 200px;
+    height: 75px;
+    color: blue;
+    cursor: pointer;
+}
+.facebook{
+    width: 93px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.gmail{
+    width: 95px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.youtube{
+    width: 90px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.years{
+    width: 100px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.food{
+    width: 95px;
+    height: 100px;
+    color: blue;
+    cursor: pointer;
+}
+.game{
+    width: 195px;
+    height: 105px;
+    color: blue;
+    cursor: pointer;
+}
+.sociaLlife{
+    width: 90px;
+    height: 45px;
+    color: blue;
+    cursor: pointer;
+}
+.sleep{
+    width: 90px;
+    height: 45px;
+    color: blue;
+    cursor: pointer;
+}
+.beer{
+    width: 300px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.wc{
+    width: 100px;
+    height: 85px;
+    color: blue;
+    cursor: pointer;
+}
+.softuni:hover{
+    background-color: black;
+    color: white;
+}
+.google:hover{
+    background-color: black;
+    color: white;
+}
+.github:hover{
+    background-color: black;
+    color: white;
+}
+.facebook:hover{
+    background-color: black;
+    color: white;
+}
+.gmail:hover {
+    background-color: black;
+    color: white;
+}
+.youtube:hover{
+    background-color: black;
+    color: white;
+}
+.years:hover{
+    background-color: black;
+    color: white;
+}
+.food:hover{
+    background-color: black;
+    color: white;
+}
+.game:hover{
+    background-color: black;
+    color: white;
+}
+.sociaLlife:hover{
+    background-color: black;
+    color: white;
+}
+.sleep:hover{
+    background-color: black;
+    color: white;
+}
+.beer:hover{
+    background-color: black;
+    color: white;
+}
+.wc:hover{
+    background-color: black;
+    color: white;
+}
