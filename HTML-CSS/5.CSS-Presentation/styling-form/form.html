@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  </head>
+<body>
+    <div id="wrapper">
+        <p class="headers">Step 1: Your details</p>
+        <form class="form-vertical">
+            <div class="form-group">
+                <label for="inputEmail3" class="col-sm-4 control-label">Name</label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control" id="inputEmail3" placeholder="First and last name" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Email</label>
+                <div class="col-sm-8">
+                    <input type="email" class="form-control" id="inputEmail" placeholder="example@domain.com" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Phone </label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputPhone" placeholder="eg +447500000000" />
+                </div>
+            </div>
+        </form>
+        <p class="headers">Step 2: Delivery address</p>
+        <form class="form-vertical">
+            <div class="form-group" id="address">
+                <label class="col-sm-4 control-label" id="header-address">Address</label>
+                <div class="col-sm-8">
+                    <textarea class="form-control" rows="4" placeholder="Write your address:" ></textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Post code</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputPostCode" placeholder=""/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Country</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputCountry" placeholder="" />
+                </div>
+            </div>
+        </form>
+        <p class="headers">Step 3: Card details</p>
+        <form class="form-vertical">
+            <div class="form-group" id="card-type">
+                <label class="col-sm-12 control-label" id="card">Card type</label>
+                <div class="col-sm-4">
+                    <div class="radio" id="radio-one">
+                        <label>
+                            <input type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="radio" id="radio-two">
+                        <label>
+                            <input type="radio" name="blankRadio" id="blankRadio2" value="option1" aria-label="...">
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="radio" id="radio-three">
+                        <label>
+                            <input type="radio" name="blankRadio" id="blankRadio3" value="option1" aria-label="...">
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="img-responsive">
+                            <img src="image/visa.png" id="visa-card" alt="img"/>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="img-responsive">
+                            <img src="image/amex.png"   id="amex-card" alt="img"/>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="img-responsive">
+                            <img src="image/master.png" id="master-card" alt="img" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Card number</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputCardNumber" placeholder=""/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Security code</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputSecurityCode" placeholder="" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Name on card</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="inputNameOnCard" placeholder="exact name as on the card" />
+                </div>
+            </div>
+        </form>
+        <button class="btn btn-default" id="btn" type="submit">BUY IT!</button>
+    </div>
+</body>
+</html>
