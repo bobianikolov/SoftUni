@@ -1,0 +1,181 @@
+body{
+   background-image: url("images/colorful_dots_on_black.jpg");
+}
+
+.col-md-4{
+    height: 50px;
+    width: 100%;
+    margin: 0;
+}
+
+#section{
+    margin-top: 22px;
+}
+
+#first-part-header{
+    background-color: red;
+}
+
+#second-part-header{
+    background-color: green;
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#third-part-header{
+    background-color: blue;
+}
+
+#headerNav{
+    text-decoration: underline;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+#lorem-ipsum{
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.nav-bar {
+    list-style: square inside url("images/tikche.png");
+}
+
+.nav-bar ul li{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 210px;
+    height: 40px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.nav-bar ul li a{
+    color: black;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.nav-bar ul li a:hover{
+    text-decoration: none;
+}
+
+.nav-bar ul li:nth-child(1):hover{
+    background-color: red;
+}
+
+.nav-bar ul li:nth-child(2):hover{
+    background-color: orange;
+}
+
+.nav-bar ul li:nth-child(3):hover{
+    background-color: yellow;
+}
+
+.nav-bar ul li:nth-child(4):hover{
+    background-color: green;
+}
+
+.nav-bar ul li:nth-child(5):hover{
+    background-color: blue;
+}
+
+.nav-bar ul li:nth-child(6):hover{
+    background-color: darkmagenta;
+}
+
+.article{
+    width: 950px;
+    background-color: rgba(255,255,255,0.9);
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 25px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.information{
+    width: 920px;
+    height: 40px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+#webColors{
+    background-color: red;
+    color: white;
+}
+
+#webSafeColors{
+    background-color: orange;
+    color: black;
+}
+
+#RGB{
+    background-color: yellow;
+    color: black;
+}
+
+#RGBA {
+    background-color: green;
+    color: white;
+}
+
+#hsl {
+    background-color: blue;
+    color: white;
+}
+#lorem{
+    background-color: darkmagenta;
+    color: white;
+}
+
+#la{
+    font-style: italic;
+    color: indigo;
+}
+
+footer a{
+    color: rgba(22,22,22,0.6);
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+footer a:hover{
+    color: red;
+}
+
+#aside{
+    width: 310px;
+    height: 390px;
+    background-color: rgba(255,255,255,0.9);
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-left: 25px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.text{
+    padding: 10px;
+
+}
+.text:first-letter {
+    font-size: 2.7em;
+    font-style: italic;
+}
+
+.text:first-line{
+    font-size: 1em;
+    font-style: italic;
+    color: rgb(22,22,22);
+ }
