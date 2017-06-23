@@ -1,0 +1,75 @@
+#external-div{
+    background-color: green;
+    width: 1000px;
+    margin: 200px auto;
+    padding: 1px;
+}
+
+#inner-div{
+    width: 980px;
+    margin: 10px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 230px;
+}
+
+#table{
+    border: 2px solid white;
+    border-radius: 35px;
+}
+
+.table-bordered img{
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+}
+
+.table-bordered figcaption{
+    display: inline-block;
+}
+
+.table-bordered .first-country{
+    text-align: right;
+}
+
+.result{
+    text-align: center;
+}
+
+.group{
+    text-align: center;
+}
+
+.name-country{
+    text-align: right;
+}
+.table-bordered thead{
+    background-color: gold;
+}
+
+#header-country-first{
+    text-align: right;
+}
+
+#header-result,
+#group,
+#place-a-bet{
+    text-align: center;
+}
+
+#header-country-second{
+    text-align: left;
+}
+
+.row-white{
+    background-color: white;
+}
+
+.row-silver{
+    background-color: silver;
+}
+
+.select{
+    text-align: center;
+}
