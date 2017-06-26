@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Order</title>
+    <link href="flight-order.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <p>FLIGHT ORDER</p>
+        </header>
+        <form class="form-from">
+            <label for="from-city">From</label><br>
+            <select name="from-city" id="from-city" class="left-form" autofocus="true">
+                <option value="Sf">Sofia</option>
+                <option value="pv">Plovdiv</option>
+                <option value="Vr">Varna</option>
+                <option value="Sn">Sandanski</option>
+                <option value="Pt">Petrich</option>
+                <option value="EAC" selected="selected">enter a city</option>
+            </select><br><br>
+            <label for="departure-date">Departure Date</label><br>
+            <input type="date" name="date" class="left-form" id="departure-date" /><br>
+            <label for="return-date">Return Date</label><br>
+            <input type="date" name="date" class="left-form" id="return-date" /><br>
+
+            <div id="first-div">
+                <label for="spin-box-first">12+</label><br>
+                <input type="number" min="12" max="100" id="spin-box-first" placeholder="0"/>
+            </div>
+           <div id="second-div">
+               <label for="spin-box-second">2-12</label><br>
+               <input type="number" min="2" max="12" id="spin-box-second" placeholder="0"/>
+           </div>
+            <div id="third-div">
+                <label for="spin-box-third">0-2</label><br>
+                <input type="number" min="0" max="2" id="spin-box-third" placeholder="0"/>
+            </div>
+
+        </form>
+        <form class="form-to">
+            <label for="to-city">To</label><br>
+            <select name="to-city" id="to-city" class="left-form" autofocus="true">
+                <option value="Sf">Sofia</option>
+                <option value="pv">Plovdiv</option>
+                <option value="Vr">Varna</option>
+                <option value="Sn">Sandanski</option>
+                <option value="Pt">Petrich</option>
+                <option value="EAC" selected="selected">enter a city</option>
+            </select><br>
+            <input type="checkbox" />
+            <label>Prefer directs</label><br>
+            <Label class="time-interval">Time Interval</Label><br>
+            <input class="date" type="time" name="time" />
+            <input class="date" type="time" name="time" /><br>
+            <Label class="time-interval">Time Interval</Label><br>
+            <input class="date" type="time" name="time"  />
+            <input class="date" type="time" name="time" /><br>
+            <label for="choose-class">Choose class</label><br>
+            <select class="choose-classs" name="class" id="choose-class" autofocus="true">
+                <option value="economy" selected="selected">Economy</option>
+                <option value="vip">Vip</option>
+                <option value="middle">Middle</option>
+            </select><br>
+            <button type="submit" id="btn-search">Search</button>
+        </form>
+    </div>
+</body>
+</html>
