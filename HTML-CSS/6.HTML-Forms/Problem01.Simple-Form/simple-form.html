@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Form</title>
+    <link href="simple-form.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h2>Enter the system</h2>
+        </header>
+        <p>It is necessary to login in Your account order to sign in for a course.</p>
+        <form class="register-form">
+            <header>
+                <h4>ARE YOU NEW? REGISTER</h4>
+            </header>
+            <input class="input-register" type="text" name="user-name" placeholder="User name" /><br>
+            <input class="input-register" type="email" name="email" placeholder="Email" /><br>
+            <input class="input-register" type="password" name="password" placeholder="Password" /><br>
+            <input class="input-register" type="password" name="conform-password" placeholder="Conform Password" /><br>
+            <button class="btn-register" type="submit" name="submit">Register</button>
+        </form>
+        <form class="login-form">
+            <header>
+                <h4>ALREADY A STUDENT? LOGIN</h4>
+            </header>
+            <input class="input-login" type="text" name="user-name-login" value="User name" /><br>
+            <input class="input-login" type="password" name="password-login" placeholder="Password" /><br>
+            <input class="remember-me" type="checkbox" name="checkbox" />
+            <label class="remember-me-text">Remember me?</label>
+            <button class="btn-login">Login</button><br>
+            <label class="forget-password">Forget Password</label>
+        </form>
+    </div>
+</body>
+</html>

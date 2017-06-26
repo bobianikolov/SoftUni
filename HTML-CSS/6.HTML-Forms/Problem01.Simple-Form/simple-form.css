@@ -1,0 +1,78 @@
+#wrapper{
+    width: 752px;
+    height: 410px;
+    margin: 100px auto;
+    background-color: gainsboro;
+}
+
+header h2{
+    padding: 10px;
+}
+
+p{
+    margin-left: 10px;
+    font-size: 17px;
+    color: rgba(0,0,0,0.5);
+}
+
+.register-form{
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.input-register{
+    padding: 8px;
+    margin: 7px 0;
+    width: 320px;
+}
+
+.btn-register{
+    float: right;
+    padding: 5px 30px;
+    border: 2px solid #234465;
+    color: #234465;
+}
+
+.login-form{
+    background-color: #234465;
+    width: 360px;
+    height: 285px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 10px;
+}
+
+.login-form header h4{
+    color: white;
+    margin-left: 10px;
+}
+
+.input-login{
+    padding: 8px;
+    margin: 10px;
+    width: 320px;
+}
+
+.btn-login{
+    margin-left: 100px;
+    padding: 5px 40px;
+    border: 2px solid orange;
+    background-color: #234465;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.remember-me{
+    margin-left: 10px;
+}
+
+.remember-me-text{
+    color: white;
+}
+
+.forget-password{
+    color: white;
+    text-decoration: underline;
+    margin-left: 240px;
+}
