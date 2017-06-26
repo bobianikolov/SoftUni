@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Facebook Register Form</title>
+    <link href="register-form.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <img src="images/facebbok.png" alt="facebook" id="facebook-picture" />
+        <header>
+            <h2>Registration</h2>
+            <p>It is safe and it will always be!</p>
+        </header>
+        <fieldset id="left-field-set">
+            <legend id="legent-left">None-Important Information</legend>
+
+            <input class="information" type="text" name="first-name" placeholder="First Name" />
+            <input class="information" type="text" name="last-name" placeholder="Last Name" /><br>
+            <input class="information" type="email" name="email" placeholder="Your Email" />
+            <input class="information" type="tel" name="tell" value="Phone Number" /><br>
+            <input class="information" type="password" name="password" placeholder="Your Password" />
+            <input class="information" type="text" name="website" placeholder="Website" /><br><br><br>
+
+            <label for="date-time">Birthday</label><br>
+            <input type="datetime-local" name="date-time" id="date-time"><br><br>
+            <input type="radio" name="gender" value="Female"/>
+            <label>Female</label>
+            <input type="radio" name="gender" value="Male"/>
+            <label>Male</label>
+            <input type="radio" name="gender" value="Other" checked/>
+            <label>Other</label>
+        </fieldset>
+        <fieldset id="right-field-set">
+            <legend id="legent-right">Important Information *required</legend>
+
+            <select  class="information" name="select-country" autofocus="true">
+                <option value="Bul">Bulgaria</option>
+                <option value="Italy">Italy</option>
+                <option value="Germany">Germany</option>
+                <option value="US">United States</option>
+                <option value="Greece">Greece</option>
+                <option value="Country" selected="selected">Country</option>
+            </select>
+
+            <input class="information" type="text" name="village" placeholder="Village" />
+            <input class="information" type="text" name="district" placeholder="District" /><br>
+            <input class="information" type="text" name="street" placeholder="Street" />
+            <input class="small-text" type="text" name="nr" placeholder="NR" />
+            <input class="small-text" type="text" name="floor" placeholder="Floor" />
+            <input class="small-text" type="text" name="ap-nr" placeholder="Ap Nr" /><br><br>
+
+            <label id="dolor-color" for="aunt-panties">Door Color</label><br>
+            <input class="information" type="color" name="color" id="aunt-panties"/>
+            <input class="information" type="text" name="water-meter" placeholder="Water Meter Nr" />
+            <select class="information" name="panties" autofocus="true">
+                <option value="view-panties" selected="selected">Aunt Panties'Size</option><
+            </select><br><br>
+            <label>More Personal Information</label><br>
+            <textarea rows="5" cols="70">Give Us More Information!!!</textarea>
+        </fieldset><br>
+        <button type="reset" value="Reset" id="btn-reset">Clear Form</button>
+        <button type="submit" value="Submit" id="btn-register">Register</button>
+    </div>
+</body>
+</html>

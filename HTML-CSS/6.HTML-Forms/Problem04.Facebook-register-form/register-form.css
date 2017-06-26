@@ -1,0 +1,84 @@
+#wrapper {
+    background-color: rgb(16, 42, 99);
+    width: 970px;
+    height: 700px;
+    margin: 59px auto;
+}
+
+#facebook-picture {
+    margin-left: 170px;
+}
+
+header h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 34px;
+}
+
+header p{
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+}
+
+#left-field-set{
+    width: 350px;
+    height: 295px;
+    color: white;
+    margin-left: 15px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.information{
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#right-field-set{
+    display: inline-block;
+    position: absolute;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#legent-right{
+    text-align: center;
+}
+
+#legent-left{
+    text-align: center;
+}
+#btn-reset{
+    width: 378px;
+    height: 40px;
+    border: 1px white;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: rgb(16, 42, 99);
+    font-size: 18px;
+    margin: 15px 15px;
+}
+
+#btn-register{
+    width: 540px;
+    height: 40px;
+    border: 1px white;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: rgb(16, 42, 99);
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+.small-text{
+    width: 104px;
+}
+
+#dolor-color{
+    margin-left: 5px;
+}
