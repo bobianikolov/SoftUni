@@ -1,0 +1,89 @@
+#wrapper{
+    width: 1280px;
+    height: 310px;
+    background-color: lightgrey;
+    margin: 0 auto;
+}
+
+.nav-bar{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(54, 57, 63);
+}
+
+.nav-bar nav ul{
+    -webkit-padding-start: 0;
+    -moz-padding-start: 0;
+}
+
+.nav-bar nav ul li{
+    list-style: none;
+    margin: 0;
+    display: inline-block;
+}
+
+.nav-bar nav ul li a{
+    text-decoration: none;
+    color: lightgrey;
+    display: inline-block;
+    width: 230px;
+}
+
+.nav-bar nav ul li a:hover{
+    background-color: rgb(37, 196, 122);
+    color: white;
+}
+
+.image{
+    display: inline-block;
+}
+
+.labels{
+    display: inline-block;
+    position: absolute;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.first-div{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 60px;
+    font-size: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+.input-search{
+    padding: 9px;
+    margin-top: 10px;
+}
+
+.second-div,
+.third-div,
+.fourth-div{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+.fourth-div{
+    position: absolute;
+    margin-top: 39px;
+    font-size: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+#btn-find-job{
+    width: 192px;
+    height: 42px;
+    margin-top: 25px;
+    background-color: rgb(37, 196, 122);
+    border: 2px solid rgb(37, 196, 122);
+    color: white;
+}
+
+#btn-find-job:hover{
+    background-color: rgb(54, 57, 63);
+    border: 2px solid rgb(54, 57, 63);
+}
