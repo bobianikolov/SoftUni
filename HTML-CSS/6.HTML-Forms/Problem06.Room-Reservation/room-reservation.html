@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Room Reservation</title>
+    <link href="room-reservation.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <p>Room Reservation</p>
+        </header>
+        <div class="basic-information">
+            <p id="basic-header">Basic Information</p>
+            <p id="basic-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Praesent at nibh varius odio sollicitudin blandit nec eu elit.
+                Suspendisse ac risus nunc, quis elementum lorem.
+                Pellentesque vehicula egestas eros nec commodo.
+            </p>
+        </div>
+        <div id="basic-search">
+           <label>Search</label><br>
+            <input type="search" name="search" />
+        </div>
+        <div class="main-information">
+            <div id="left-div">
+                <p>Personal Details</p>
+                <input class="left-div-class" type="text" name="first-name" placeholder="First Name"><br>
+                <input class="left-div-class" type="text" name="last-name" placeholder="Last Name"><br>
+                <input class="left-div-class" type="email" name="enter-email" placeholder="Enter email"><br>
+
+            </div>
+            <div id="right-div">
+                <p>Request a reservation</p>
+                <label class="right-div-text" for="select-room">Select a room:</label>
+                <label class="right-div-text" id="right-div-number-rooms" for="number-of-rooms">Number of room:</label><br>
+                <select class="right-div-class" id="select-room" name="select-a-room" autofocus="true">
+                    <option value="room-1">Room 1</option>
+                    <option value="room-2">Room 2</option>
+                    <option value="room-3" selected="selected">Room 3</option>
+                    <option value="room-4">Room 4</option>
+                    <option value="room-5">Room 5</option>
+                    <option value="room-6">Room 6</option>
+                    <option value="room-7">Room 7</option>
+                    <option value="room-8">Room 8</option>
+                    <option value="room-9">Room 9</option>
+                    <option value="room-10">Room 10</option>
+                </select>
+                <input class="right-div-class" type="number" id="number-of-rooms" name="number-rooms" placeholder="1" /><br><br>
+                <label class="right-div-text" for="check-in-date">Check-In:</label>
+                <label class="right-div-text" id="right-div-check-out" for="check-out-date">Check-Out:</label><br>
+                <input class="right-div-class" type="date" name="date" id="check-in-date">
+                <input class="right-div-class"  type="date" name="date" id="check-out-date">
+            </div>
+        </div>
+        <button type="submit" value="Submit" id="btn-submit">Book Now</button>
+    </div>
+</body>
+</html>
