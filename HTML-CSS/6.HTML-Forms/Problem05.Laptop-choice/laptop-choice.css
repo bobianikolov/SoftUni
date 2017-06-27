@@ -1,0 +1,61 @@
+#wrapper{
+    width: 560px;
+    height: 615px;
+    display: inline-block;
+    margin-left: 300px;
+}
+
+header h2{
+    margin-left: 30px;
+}
+.image{
+    width: 160px;
+    height: 110px;
+    display: block;
+}
+
+.price{
+    width: 90px;
+    height: 34px;
+    float: right;
+    background-color: #234465;
+    color: white;
+    border: 1px solid #234465;
+    border-top-left-radius: 10px;
+}
+
+.all-laptops{
+    margin: 10px;
+}
+
+.characteristics{
+    width: 140px;
+    height: 582px;
+    background-color: aliceblue;
+    display: inline-block;
+    position: absolute;
+    padding: 10px 8px;
+}
+
+.char-header{
+    margin-left: 35px;
+    font-size: 18px;
+}
+
+.price-header,
+.ram-header,
+.disc-header{
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+.display-header{
+    margin-left: 42px;
+}
+.char-left{
+    float: left;
+}
+
+.char-right{
+    float: right;
+}
