@@ -1,0 +1,107 @@
+body{
+    background-color: silver;
+}
+
+#wrapper{
+    width: 1200px;
+    height: 570px;
+    margin: 50px auto;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 10px;
+    background-color: white;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+header p{
+    font-size: 28px;
+    text-align: center;
+}
+
+.information{
+    width: 950px;
+    height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.forms{
+    width: 635px;
+    height: 380px;
+    border-top: 1px solid black;
+    margin: 20px auto;
+}
+
+.left-form{
+    display: inline-block;
+}
+
+.right-form{
+    display: inline-block;
+    position: absolute;
+    margin-left: 70px;
+}
+
+.input-form-ok{
+    background: url("images/ok.png") no-repeat scroll 2px;
+    background-position: right;
+    padding: 9px 15px;
+    width: 250px;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+
+.input-form-no{
+    background: url("images/no.png") no-repeat scroll 2px;
+    background-position: right;
+    padding: 9px 15px;
+    width: 250px;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+
+.input-form-no,
+.input-form-ok{
+    margin: 7px 0;
+}
+
+#text-for-checkbox{
+    font-size: 14px;
+    color: rgba(0,0,0,0.7);
+}
+
+#btn-create-account{
+    margin-top: 10px;
+    width: 170px;
+    height: 40px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#forget-my-password{
+    font-size: 15px;
+    font-weight: bold;
+    color: hotpink;
+}
+
+#forget-my-password:hover{
+    color: deeppink;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#btn-login{
+    width: 100px;
+    height: 40px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#btn-create-account:hover,
+#btn-login:hover{
+    background-color: rgb(103, 229, 89);
+    cursor: pointer;
+}
