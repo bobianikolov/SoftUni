@@ -1,0 +1,110 @@
+body{
+    background-image: url("images/backgroundImage.jpg");
+    background-size: 100%;
+}
+
+#header{
+    font-size: 50px;
+    font-family: Tahoma, Helvetica,sans-serif;
+    text-align: center;
+    color: white;
+    border-bottom: 1px solid yellow;
+    width: 1200px;
+    margin: 50px auto;
+}
+
+.sub-title{
+    color: chocolate;
+    font-size: 30px;
+    text-align: center;
+}
+
+.left-form{
+    background-color: rgba(155, 39, 26,0.8);
+    width: 330px;
+    height: 310px;
+    border: 1px solid rgb(155, 39, 26);
+    border-radius: 10px;
+    margin-left: 240px;
+    margin-top: 35px;
+    display: inline-block;
+}
+
+.right-form{
+    background-color: rgba(155, 39, 26,0.8);
+    width: 330px;
+    height: 310px;
+    border: 1px solid rgb(155, 39, 26);
+    border-radius: 10px;
+    margin-left: 190px;
+    margin-top: 35px;
+    display: inline-block;
+    position: absolute;
+}
+
+.login-register-username{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(130, 64, 40);
+    border: 2px solid rgb(130, 64, 40);
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    margin-left: 45px;
+    text-align: center;
+    display: inline-block;
+}
+
+.login-register-username img{
+    margin-top: 10px;
+}
+
+.login-register-password{
+    width: 40px;
+    height: 35px;
+    background-color: rgb(130, 64, 40);
+    border: 2px solid rgb(130, 64, 40);
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    margin-left: 45px;
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.login-register-password img{
+    margin-top: 10px;
+}
+
+#password-left-form,
+#right-form-password,
+#right-form-confirm-password{
+    margin-top: 10px;
+}
+
+.fields-info{
+    padding: 9px 10px;
+    display: inline-block;
+    position: absolute;
+    border: 1px solid white;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.btn-login-form{
+    width: 240px;
+    height: 36px;
+    background-color: mediumseagreen;
+    border: 1px solid mediumseagreen;
+    border-radius: 8px;
+    margin-left: 44px;
+    margin-top: 10px;
+    color: firebrick;
+    font-size: 18px;
+}
+
+.btn-login-form:hover{
+    background-color: darkgreen;
+    color: gold;
+    border: 1px solid gold;
+    cursor: pointer;
+}
