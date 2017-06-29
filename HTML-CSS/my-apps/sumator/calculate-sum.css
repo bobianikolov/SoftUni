@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(82, 209, 62);
+}
+
+#wrapper{
+    width: 860px;
+    height: 370px;
+    margin: 100px auto;
+    background-color: green;
+    padding-top: 60px;
+}
+
+#number-one{
+    margin-left: 30px;
+}
+
+.form{
+    width: 670px;
+    height: 200px;
+    background-color: #99EE99;
+    margin: 10px auto;
+    padding-top: 90px;
+}
+
+.input-style{
+    padding: 8px;
+}
+
+.label-style{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#btn-calculate{
+    width: 300px;
+    height: 40px;
+    background-color: darkgreen;
+    border: 2px solid black;
+    color: white;
+    margin-left: 185px;
+    margin-top: 40px;
+    font-size: 17px;
+}
+
+#btn-calculate:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}
