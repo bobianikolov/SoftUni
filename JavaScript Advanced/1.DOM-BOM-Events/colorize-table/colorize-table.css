@@ -1,0 +1,37 @@
+#wrapper{
+    width: 400px;
+    height: 260px;
+    margin: 140px auto;
+    background-color: #99EE99;
+    padding-top: 40px;
+}
+
+.table-info{
+    border: 2px solid black;
+    margin-left: 50px;
+    width: 300px;
+    height: 160px;
+}
+
+.table-info td,
+.table-info th{
+    border: 1px solid black;
+}
+
+#btn-colorize{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    margin-left: 140px;
+    margin-top: 30px;
+    border: 3px solid green;
+    font-size: 16px;
+}
+
+#btn-colorize:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    font-size: 16px;
+}
