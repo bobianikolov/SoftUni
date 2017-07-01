@@ -1,0 +1,42 @@
+#wrapper{
+    width: 280px;
+    height: 144px;
+    background-color: #99EE99;
+    margin: 230px auto;
+    padding-top: 15px;
+}
+
+#time{
+    border: 3px solid blue;
+    text-align: center;
+    font-size: 2em;
+    width: 200px;
+    height: 40px;
+    margin: 20px auto;
+}
+
+#startBtn{
+    width: 90px;
+    height: 30px;
+    color: white;
+    background-color: darkgreen;
+    margin-left: 37px;
+    border: 2px solid green;
+}
+
+#stopBtn{
+    width: 90px;
+    height: 30px;
+    color: white;
+    background-color: darkgreen;
+    margin-left: 22px;
+    border: 2px solid green;
+}
+
+#startBtn:hover,
+#stopBtn:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}
