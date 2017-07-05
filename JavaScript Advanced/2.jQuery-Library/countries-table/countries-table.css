@@ -1,0 +1,15 @@
+#wrapper{
+    width: 560px;
+    height: auto;
+    margin: 150px auto;
+}
+
+#countriesTable td,
+#countriesTable th{
+    background: #DDD;
+    padding: 5px 10px;
+}
+
+input[type="tetx"]{
+    width: 60px;
+}
