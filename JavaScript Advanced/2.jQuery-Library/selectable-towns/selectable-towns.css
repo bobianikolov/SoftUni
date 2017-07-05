@@ -1,0 +1,9 @@
+#items li{
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+}
+
+#items{
+    padding: 0;
+}
