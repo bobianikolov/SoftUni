@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validation</title>
+    <link href="form-validation.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="form-validation.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <form id="form">
+            <fieldset>
+                <legend>User Information:</legend>
+                <label class="label-input" for="username">Username:</label>
+                <input class="input-form" type="text" id="username" placeholder="" /><br><br>
+                <label class="label-input" for="email">Email:</label>
+                <input class="input-form" type="email" id="email" placeholder="" /><br><br>
+                <label class="label-input" for="password">Password:</label>
+                <input class="input-form" type="password" id="password" placeholder="" /><br><br>
+                <label class="label-input" for="confirm-password">Confirm Password:</label>
+                <input class="input-form" type="password" id="confirm-password" placeholder="" /><br><br>
+                <label for="checked">Is Company?</label>
+                <input type="checkbox" id="checked">
+            </fieldset>
+            <fieldset id="company-information">
+                <legend>Company Information:</legend>
+                <label class="label-input" for="company-number">Company Number</label>
+                <input class="input-form" type="text" id="company-number" />
+            </fieldset>
+            <button type="submit" id="btn-send-information">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
