@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wiki Parser</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="wiki-parser.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <p id="wiki">
+        =Document title=
+        ==First segment==
+        '''bold 1''' word ''italics 1'' '''bold2'''
+        [[hyper first]] '''Bold three''' ''italics2'''
+        word [[hyper2]] [[hyperlink2|with Label]]
+        ==Second segment==
+        ===Third segment===
+        word '''word'''[[pipe|bomb]]
+    </p>
+</body>
+</html>
