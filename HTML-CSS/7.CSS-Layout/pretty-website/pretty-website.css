@@ -1,0 +1,151 @@
+#body{
+    background-color: black;
+}
+
+body #wrapper{
+    width: 890px;
+    margin: 0 auto;
+}
+
+#wrapper header{
+    background-image: url("images/headerBackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 270px;
+}
+
+#body #wrapper #container{
+    background-color: white;
+    width: 890px;
+    height: auto;
+    overflow: auto;
+}
+
+#header-background{
+    width: 100%;
+    padding: 0;
+}
+
+#wrapper header p{
+    color: white;
+    font-size: 28px;
+    float: right;
+    margin-top: 210px;
+    margin-right: 30px;
+}
+
+#nav-bar{
+    padding: 0;
+}
+
+.horizontal-nav{
+    background-color: rgb(232, 230, 222);
+    border: 1px solid silver;
+    padding-top: 0;
+}
+
+.horizontal-nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+.horizontal-nav ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 19px;
+    padding: 10px 15px;
+}
+
+.horizontal-nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.horizontal-nav ul li:hover{
+    background-color: silver;
+}
+
+.horizontal-nav ul li a:hover{
+    color: #fff;
+}
+
+.col-md-7 h4{
+    margin-top: 0;
+}
+
+.col-md-8{
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-left: 27px;
+    margin-top: 25px;
+}
+
+.col-md-3{
+    border: 1px solid silver;
+    border-radius: 10px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: rgb(232, 230, 222);
+}
+
+#last-right-article{
+    background-color: white;
+    float: right;
+    margin-right: 25px;
+}
+
+.row h3,
+.see-more-testimonials{
+    color: rgb(5, 181, 43);
+}
+
+.see-more-first,
+.see-more-second,
+.see-more-third{
+    color: rgb(5, 181, 43);
+    text-decoration: underline;
+}
+
+.see-more-text-first,
+.see-more-text-second,
+.see-more-text-third{
+    display: none;
+}
+
+.see-more-testimonials{
+    text-decoration: underline;
+}
+
+.list-testimonials{
+    display: none;
+}
+
+.hide-text{
+    color: rgb(5, 181, 43);
+    text-decoration: underline;
+}
+
+.overflow-visible{
+    display: block;
+}
+
+.news-header{
+    font-weight: bold;
+}
+
+footer{
+    height: 90px;
+    background-color: rgb(134, 216, 52);
+    margin-top: 15px;
+}
+
+footer p{
+    margin-left: 120px;
+    padding-top: 25px;
+    font-size: 16px;
+}
+
+footer .span-footer{
+    text-decoration: underline;
+}
